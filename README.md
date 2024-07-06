@@ -1,6 +1,7 @@
 # LF-3PM    :construction: **_To be released_**
 a LiDAR-based Framework for Perception-aware Planning with Perturbation-induced Metric
 
+[🎉] Our work is accepted by IROS2024. We are grateful for the constructive feedback from the reviewers. We are currently revising the final version of the paper according to the suggestions and refactoring the source code to make it clearer and more readable. The code will be released no later than the start of the IROS conference.
 <!-- # LiDAR-based Perception Aware Planning -->
 <div align="center">
   <img src="md_floder/preview.png" width = 80% height = 80% />
